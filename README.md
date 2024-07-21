@@ -42,6 +42,9 @@ Navigate to S3 and click on create bucket to create a bucket with a unique name
 ## THIS YOUR STATIC WEBSITE
 ![S3 buckets _ S3 _ eu-north-1 - Google Chrome 7_21_2024 7_53_47 PM](https://github.com/user-attachments/assets/71629c21-cc2f-48c5-bb05-e332ed9bd981)
 
+## Conclusion:
+### You should successfully host your static website following the above steps
+##### Visit Amazon documentation for more advance configurations
 
 
 
